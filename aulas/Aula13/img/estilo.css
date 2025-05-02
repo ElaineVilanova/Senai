@@ -1,0 +1,43 @@
+.container{
+    width: 1024px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}    
+  
+ .box{
+    background-color: #c12a21;
+    width: 300px;
+    height: auto;
+    padding: 16px;
+    border-radius: 16px;
+    text-align: justify;
+}
+.box img{
+    width: 100%;
+    height: 200px;
+    border-radius: 16px;
+}
+.box h2{
+    color: #fff;
+    text-align: center;
+}
+.box p{
+    color: #fff;
+}
+
+
+.btn{
+    color:black;
+    border-radius: 8px;
+    border: 8px;
+    padding: 10px 0;
+    text-decoration: none;
+    background-color: #fff;
+    display: block;
+    text-align: center;
+
+      
+    
+}

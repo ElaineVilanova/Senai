@@ -1,0 +1,26 @@
+.container{
+    width: 1024px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 300px;
+    height: auto;
+    border: 1px solid #999;
+    padding: 8px;
+    border-radius: 0 5px 0 5px;
+}
+.box img{
+    width: 100%;
+    border-radius: 5px;
+}
+.box h2{
+    text-align: center;
+    color: blue
+}
+.box p{
+    text-align: justify;
+    color: blue
+}

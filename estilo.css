@@ -20,6 +20,6 @@ h2{
     background-color: rgb(122, 98, 98);
     border-radius: 10px;
 }
-li{
-    
+ul{
+    list-style: square;
 }
